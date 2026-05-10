@@ -6,6 +6,8 @@ student_persistence/
 # Generated outputs
 *.png
 *.pdf
+!presentation/*.pdf
+
 
 # R session files
 .Rhistory
