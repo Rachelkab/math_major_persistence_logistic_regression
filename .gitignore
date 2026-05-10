@@ -1,0 +1,22 @@
+# Raw/private data
+student_persistence/
+*.csv
+*.xlsx
+
+# Generated outputs
+*.png
+*.pdf
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Quarto/RMarkdown cache
+_cache/
