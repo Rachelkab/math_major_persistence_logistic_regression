@@ -2,7 +2,7 @@
 
 This project investigates long-term persistence and early dropout patterns among undergraduate mathematics majors using logistic regression and longitudinal student-level data.
 
-The analysis was developed as part of an academic research project focused on understanding which factors are associated with persistence in the mathematics major and which factors are associated with immediate switching after the first mathematics term.
+The analysis was developed as part of a faculty-supervised undergraduate research project focused on understanding which factors are associated with persistence in the mathematics major and which factors are associated with immediate switching after the first mathematics term.
 
 ## Research Questions
 
